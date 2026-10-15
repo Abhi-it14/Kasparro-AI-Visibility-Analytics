@@ -1,0 +1,15 @@
+metric,M1,M2,delta_pp,relative_change_pct,matched_cell_count,note
+category_presence,19.1176,36.7647,17.6471,92.3081,366,
+ai_share_of_voice,4.5431,9.4264,4.8833,107.4883,366,
+comparison_standing,9.0426,24.4681,15.4255,170.587,366,
+nb_owned_citation_rate,17.3077,34.0,16.6923,96.4444,366,
+nb_recommendation_rate,1.8382,6.6176,4.7794,260.0044,366,diagnostic_only
+nb_thirdparty_citation_rate,23.0769,18.0,-5.0769,-21.9999,366,diagnostic_only
+branded_presence_quality,65.4255,84.1489,18.7234,28.6179,366,
+branded_recommendation_rate,46.8085,56.383,9.5745,20.4546,366,
+branded_prominence,96.0106,98.4043,2.3937,2.4932,366,
+branded_owned_citation_rate,47.8723,76.5957,28.7234,60.0,366,
+branded_thirdparty_citation_rate,14.8936,13.8298,-1.0638,-7.1427,366,diagnostic_only
+nb_discovery_score,11.0918,23.0936,12.0018,108.2043,366,composite: 0.40 ASOV + 0.30 CP + 0.20 CS + 0.10 NB_OCR
+branded_performance_score,62.3404,75.1383,12.7979,20.5291,366,composite: 0.30 BPQ + 0.40 BRR + 0.20 BP + 0.10 B_OCR
+final_asv_score,31.5912,43.9115,12.3203,38.9992,366,composite: 0.60 NB_Discovery + 0.40 Branded_Performance

@@ -1,0 +1,5 @@
+audit_month,query_type,impressions,clicks,ctr_pct,avg_position,query_source,sessions,engaged_sessions,conversions,revenue_usd,audit_period
+2026-06,branded,1925,225,11.6883,5.1,GSC_monthly_by_query_type,567,349,12,1992.68,M1
+2026-06,non_branded,3545,146,4.1185,15.06,GSC_monthly_by_query_type,567,349,12,1992.68,M1
+2026-07,branded,2402,296,12.3231,4.0,GSC_monthly_by_query_type,794,507,24,4073.47,M2
+2026-07,non_branded,4893,229,4.6802,13.66,GSC_monthly_by_query_type,794,507,24,4073.47,M2

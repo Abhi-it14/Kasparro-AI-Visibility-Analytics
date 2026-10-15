@@ -1,0 +1,15 @@
+metric,label,score,numerator,denominator,note
+category_presence,M1_Baseline,18.5053,52.0,281.0,
+ai_share_of_voice,M1_Baseline,4.4038,89.0,2021.0,
+comparison_standing,M1_Baseline,9.0426,425.0,4700.0,
+nb_owned_citation_rate,M1_Baseline,17.3077,9.0,52.0,
+nb_recommendation_rate,M1_Baseline,1.7794,5.0,281.0,diagnostic_only
+nb_thirdparty_citation_rate,M1_Baseline,23.0769,12.0,52.0,diagnostic_only
+branded_presence_quality,M1_Baseline,65.4255,6150.0,9400.0,
+branded_recommendation_rate,M1_Baseline,46.8085,44.0,94.0,
+branded_prominence,M1_Baseline,96.0106,9025.0,9400.0,
+branded_owned_citation_rate,M1_Baseline,47.8723,45.0,94.0,
+branded_thirdparty_citation_rate,M1_Baseline,14.8936,14.0,94.0,diagnostic_only
+nb_discovery_score,M1_Baseline,10.8524,,,composite: 0.40 ASOV + 0.30 CP + 0.20 CS + 0.10 NB_OCR
+branded_performance_score,M1_Baseline,62.3404,,,composite: 0.30 BPQ + 0.40 BRR + 0.20 BP + 0.10 B_OCR
+final_asv_score,M1_Baseline,31.4476,,,composite: 0.60 NB_Discovery + 0.40 Branded_Performance
